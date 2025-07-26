@@ -1,0 +1,17 @@
+{
+  "bitcoin": {
+    "amount": 0.5,
+    "buy_price": 30000,
+    "alert_above": 35000
+  },
+  "ethereum": {
+    "amount": 2,
+    "buy_price": 1800,
+    "alert_above": 2500
+  },
+  "solana": {
+    "amount": 10,
+    "buy_price": 22,
+    "alert_above": 30
+  }
+}
